@@ -1,10 +1,3 @@
-# Tool-X
-
-[![Build Status](https://img.shields.io/github/forks/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![License](https://img.shields.io/github/license/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Tool-X)
-
 ------------------------------------------------------------------------
 
 ### Introduction
@@ -36,8 +29,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rajkumardusad/Tool-X.git`
-
+* `git clonehttps://github.com/GOLOKMGF/Tool-x.git
 * `cd Tool-X`
 
 * `chmod +x install.aex`
