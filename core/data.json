@@ -2958,5 +2958,14 @@
     "url" : "https://github.com/pasahitz/zirikatu.git",
     "package_manager" : "git",
     "dependency" : ["git"]
+  },
+
+  "zirikatu" : { 
+    "name" : "zirikatu",
+    "package_name" : "zirikatu",
+    "category" : [null],
+    "url" : "https://github.com/pasahitz/zirikatu.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
   }
 }
